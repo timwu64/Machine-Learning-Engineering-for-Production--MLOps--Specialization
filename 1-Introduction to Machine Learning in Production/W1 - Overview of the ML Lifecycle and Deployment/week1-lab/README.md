@@ -11,19 +11,19 @@ As a general note, the commands in this tutorial are meant to be run within a te
 
 To clone the repo use this command:
 ```bash
-git clone https://github.com/https-deeplearning-ai/MLEP-public.git
+git clone https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public.git
 ```
 
 or for cloning via SSH use:
 ```bash
-git clone git@github.com:https-deeplearning-ai/MLEP-public.git
+git clone git@github.com:https-deeplearning-ai/machine-learning-engineering-for-production-public.git
 ```
 
 If you are unsure which method to use for cloning, use the first one.
 
 The `cd` command allows you to change directories. Assuming you are at the directory where you issued the cloning command, type the following on your terminal.
 ```bash
-cd MLEP-public/course1/week1-ungraded-lab
+cd machine-learning-engineering-for-production-public/course1/week1-ungraded-lab
 ```
 This will bring you to the `week1-ungraded-lab` directory. The `ls` command allows you to list the files and directories.
 Type `ls` and let's take a quick look at the content inside `week1-ungraded-lab` directory:
